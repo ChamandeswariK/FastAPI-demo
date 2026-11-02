@@ -1,0 +1,8 @@
+# Environment List
+.venv
+venv
+
+
+# PyCache
+__pycache__
+.python-version
