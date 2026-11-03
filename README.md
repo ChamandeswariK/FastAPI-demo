@@ -1,4 +1,3 @@
-
 # FastAPI Demo
 
 A simple FastAPI application built with Python and managed using `uv`.
@@ -8,7 +7,7 @@ A simple FastAPI application built with Python and managed using `uv`.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ChamandeswariK/FastAPI-demo.git
 cd FastAPI-demo/src
 ```
 
